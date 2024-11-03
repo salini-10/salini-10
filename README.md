@@ -19,3 +19,4 @@
 ## Certifications
 - ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified:_Azure_Fundamentals-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) - Microsoft - Obtained: June 2023
 - ![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft_Certified:_Azure_Developer_Associate-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) - Microsoft - Obtained: June 2023
+- ![Designing and Implementing Microsoft DevOps Solutions](https://img.shields.io/badge/Microsoft_Certified:_Azure_DevOps_Solutions_Expert-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white) - Microsoft - Obtained: June 2023
